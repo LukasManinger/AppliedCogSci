@@ -1,2 +1,1 @@
-# altairpages
-test
+# AppliedCogSci
